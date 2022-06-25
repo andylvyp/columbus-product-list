@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andylvyp/columbus-product-list/static/css/main.29d3413e.css",
+    "main.js": "/andylvyp/columbus-product-list/static/js/main.e595bf17.js",
+    "static/media/PlaceHolder.jpeg": "/andylvyp/columbus-product-list/static/media/PlaceHolder.030338fd4297f3a78637.jpeg",
+    "static/media/Montserrat-Regular.ttf": "/andylvyp/columbus-product-list/static/media/Montserrat-Regular.e20d5327f1a05620c084.ttf",
+    "index.html": "/andylvyp/columbus-product-list/index.html",
+    "main.29d3413e.css.map": "/andylvyp/columbus-product-list/static/css/main.29d3413e.css.map",
+    "main.e595bf17.js.map": "/andylvyp/columbus-product-list/static/js/main.e595bf17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29d3413e.css",
+    "static/js/main.e595bf17.js"
+  ]
+}
