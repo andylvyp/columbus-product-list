@@ -2,7 +2,7 @@
   "name": "columbus-product-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/andylvyp/columbus-product-list",
+  "homepage": "https://andylvyp.github.io/columbus-product-list/",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
