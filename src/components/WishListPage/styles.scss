@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f5f2;
+}
+
+.wishList-page-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    .wishList-page-title {
+        font-family: Montserrat;
+        font-size: 35px;
+        text-align: center;
+        margin: 30px 0 50px;
+        color: #565555;
+    }
+
+    .wishList-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    @media screen and (max-width: 1280px) and (min-width: 920px) {
+        .wishList-grid {
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+    }
+
+    @media screen and (max-width: 920px) and (min-width: 600px) {
+        .wishList-grid {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .wishList-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+}

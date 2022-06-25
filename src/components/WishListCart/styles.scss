@@ -1,0 +1,32 @@
+.wishlist-container {
+    font-family: Montserrat;
+    color: #565555;
+
+    .wishlist-title {
+        text-align: center;
+        font-size: 35px;
+        text-align: center;
+        margin: 30px 0 20px;
+    }
+
+    .wishlist-item-list {
+        font-size: 18px;
+        list-style: none;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+
+        .wishlist-item {
+            padding: 10px 0;
+            display: flex;
+            justify-content: center;
+        }
+    }
+
+    .wishlist-total-price {
+        text-align: center;
+        font-size: 35px;
+        text-align: center;
+        margin: 30px 0 20px;
+    }
+}

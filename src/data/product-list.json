@@ -1,0 +1,76 @@
+{
+    "productList": [
+        {
+            "id": 1,
+            "name": "Super Product 1",
+            "description": "Some text for this super product that all want to buy...",
+            "info": [
+                "Info1 Info1 Info1 Info1 Info1 Info1",
+                "Info2",
+                "Info3",
+                "Info4",
+                "Info5",
+                "Info6"
+            ],
+            "price": 120,
+            "discount": 569
+        },
+        {
+            "id": 2,
+            "name": "Super Product 12",
+            "description": "Some text for this super product that all want to buy...",
+            "info": [
+                "Info1",
+                "Info2",
+                "Info3"
+            ],
+            "price": 120,
+            "discount": 459
+        },
+        {
+            "id": 3,
+            "name": "Super Product 35",
+            "description": "Some text for this super product that all want to buy...",
+            "info": [
+                "Info1",
+                "Info2",
+                "Info3"
+            ],
+            "price": 120,
+            "discount": 1569
+        },
+        {
+            "id": 4,
+            "name": "Super Product 726",
+            "description": "Some text for this super product that all want to buy...",
+            "info": [
+                "Info1",
+                "Info2",
+                "Info3"
+            ],
+            "price": 69
+        },
+        {
+            "id": 5,
+            "name": "Super Product 4381",
+            "description": "Some text for this super product that all want to buy...",
+            "info": [
+                "Info1",
+                "Info2",
+                "Info3"
+            ],
+            "price": 679
+        },
+        {
+            "id": 6,
+            "name": "Super Product 99",
+            "description": "Some text for this super product that all want to buy...",
+            "info": [
+                "Info1",
+                "Info2",
+                "Info3"
+            ],
+            "price": 2269
+        }
+    ]
+}
